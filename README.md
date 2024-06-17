@@ -23,8 +23,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatojuanhsp@hotmail.com)
-[![Linkedin: Juan](https://img.shields.io/badge/-Juan-brown?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandrians/)](https://www.linkedin.com/in/juandrians/)
+[![Linkedin: Juan](https://img.shields.io/badge/-Juan-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandrians/)](https://www.linkedin.com/in/juandrians/)
 
 ![JuanJASP GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJASP&show_icons=true&theme=dark) <br><br>
 
