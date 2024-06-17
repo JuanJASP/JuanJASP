@@ -19,7 +19,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma,vscode)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
